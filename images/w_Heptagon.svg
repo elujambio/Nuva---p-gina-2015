@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="237.609px"
+	 height="240.483px" viewBox="0 0 237.609 240.483" enable-background="new 0 0 237.609 240.483" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="1292.581" width="1257.679" y="-1228.289" x="38.907" bottomLeftOrigin="true"></sliceSourceBounds>
+		<optimizationSettings>
+			<targetSettings  fileFormat="PNG24Format" targetSettingsID="0">
+				<PNG24Format  transparency="true" filtered="false" matteColor="#FFFFFF" noMatteColor="false" interlaced="false">
+					</PNG24Format>
+			</targetSettings>
+		</optimizationSettings>
+	</sfw>
+</metadata>
+<g>
+	<g id="Nuva_Logo_9_">
+		<g>
+			<path fill="none" stroke="#64DD17" stroke-miterlimit="10" d="M182.646,17.309c1.844,0.311,4.094,1.905,4.999,3.541
+				l48.667,87.932c0.906,1.636,1.062,4.389,0.348,6.117l-38.366,92.873c-0.714,1.728-2.768,3.568-4.564,4.087l-96.512,27.91
+				c-1.797,0.52-4.515,0.06-6.041-1.021L9.192,180.695c-1.526-1.081-2.862-3.493-2.968-5.359L0.507,74.99
+				c-0.106-1.867,0.946-4.415,2.339-5.663L77.704,2.272c1.393-1.248,4.041-2.014,5.885-1.702L182.646,17.309L182.646,17.309z"/>
+		</g>
+	</g>
+</g>
+</svg>

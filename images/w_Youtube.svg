@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="71.684px"
+	 height="50.863px" viewBox="0 0 71.684 50.863" enable-background="new 0 0 71.684 50.863" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="1292.581" width="1257.679" y="-1228.289" x="38.907" bottomLeftOrigin="true"></sliceSourceBounds>
+		<optimizationSettings>
+			<targetSettings  fileFormat="PNG24Format" targetSettingsID="0">
+				<PNG24Format  transparency="true" filtered="false" matteColor="#FFFFFF" noMatteColor="false" interlaced="false">
+					</PNG24Format>
+			</targetSettings>
+		</optimizationSettings>
+	</sfw>
+</metadata>
+<g>
+	<path fill="none" stroke="#D50000" stroke-width="1.5" stroke-miterlimit="10" d="M28.596,34.535l-0.003-19.72l18.964,9.894
+		L28.596,34.535L28.596,34.535z M70.233,11.399c0,0-0.686-4.836-2.79-6.966c-2.669-2.795-5.66-2.809-7.032-2.973
+		c-9.821-0.71-24.553-0.71-24.553-0.71h-0.031c0,0-14.732,0-24.553,0.71C9.901,1.624,6.911,1.637,4.241,4.433
+		c-2.104,2.13-2.789,6.966-2.789,6.966S0.75,17.079,0.75,22.758v5.325c0,5.679,0.702,11.359,0.702,11.359s0.685,4.836,2.789,6.966
+		c2.67,2.795,6.177,2.707,7.739,3c5.615,0.538,23.862,0.705,23.862,0.705s14.747-0.022,24.569-0.732
+		c1.372-0.164,4.363-0.177,7.032-2.973c2.104-2.13,2.79-6.966,2.79-6.966s0.701-5.679,0.701-11.359v-5.325
+		C70.934,17.079,70.233,11.399,70.233,11.399L70.233,11.399z"/>
+</g>
+</svg>

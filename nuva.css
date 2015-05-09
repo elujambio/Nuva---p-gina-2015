@@ -1,0 +1,142 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Quicksand';
+	color: #fff;
+	background-color: #000;
+
+
+}
+p{
+	padding: 0px;
+	margin: 0px;
+}
+a{
+	color:#16a085;
+}
+
+a:hover{
+	background-color: #16a085;
+	color: #fff;
+	
+}
+
+.pink{
+	color: #f50057;
+}
+.darkBlue{
+	color: #2962ff;
+}
+
+.blue{
+	color: #0091ea;
+}
+
+.green{
+	color: #64dd17;
+}
+
+.purple{
+	color: #aa00ff;
+}
+
+.yellow{
+	color: #ffd600;
+}
+
+.red{
+	color: #eb2d2e;
+
+}
+#content{
+	position: fixed;
+	left: 0;
+  	right: 0;
+
+}
+.center{
+	text-align:center;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+.clear{
+	clear: both;
+}
+.left{
+	float: left;
+}
+
+.ext{
+	width: 100%;
+
+	margin-bottom: 100px;
+	
+}
+
+.int{
+	width: 60%;
+	padding: 50px;
+	
+	
+}
+
+.content{
+	display: inline-block;
+	text-align: left;
+	
+}
+
+#yellow{
+	background-image: url("images/gold.jpg");
+	background-color: yellow;
+	height: 300px;
+}
+
+#sand {
+	background-image: url("images/Sand.jpg");
+	background-color: yellow;
+	height: 300px;
+	background-size: cover;
+}
+#one {
+	background-image: url("images/nuvaBg_01.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	background-attachment: fixed;
+	height: 800px;
+	
+}
+
+#black{
+	background-color: black;
+	height:800px;
+	width:100%;
+}
+
+#canvas{
+	background-color: black;
+	width:100%;
+
+}
+
+.logo{
+	position: relative;
+	top: -600px;
+}
+
+.img-services{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center !important;
+}
+@media screen and (max-width: 1200px) {
+	#canvas{
+		height: 800px;
+
+	}
+}
