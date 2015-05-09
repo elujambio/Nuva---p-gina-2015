@@ -88,6 +88,19 @@ a:hover{
 	
 }
 
+.inner-left{
+	display: inline-block;
+	text-align: left;
+	width: 200px;
+	padding: 30px;
+}
+
+.team-cont{
+	width: 700px;
+}
+.team img{
+	width: 100%;
+}
 #yellow{
 	background-image: url("images/gold.jpg");
 	background-color: yellow;
